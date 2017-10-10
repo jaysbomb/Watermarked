@@ -1,5 +1,1 @@
-import numpy as np
-
-
-a=np.array(a)
-print(a.shape)
+print(847//2)
